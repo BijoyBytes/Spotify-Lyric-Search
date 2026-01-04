@@ -1,7 +1,7 @@
 # Spotify Lyric Search Engine  
 **BM25-powered Information Retrieval System**
 
-🔗 **Live Demo:** [spotify lyrics search](https://spotify-lyrics.streamlit.app/) 
+🔗 **Live Demo:** [spotify lyrics search](https://spotify-lyric-search.streamlit.app/) 
 
 ##  Overview
 
